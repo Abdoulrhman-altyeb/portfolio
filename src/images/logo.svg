@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43 .905" height="45" viewBox="0 0 53.905 54">
+  <g id="Group_1" data-name="Group 1" transform="translate(-168.047 -64)">
+    <text id="AA" transform="translate(173 101)" fill="#fff" font-size="34" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AA</tspan></text>
+    <path id="Path_4" data-name="Path 4" d="M0,0,7.969,17,15,32" transform="translate(206.5 68.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <path id="Path_5" data-name="Path 5" d="M0,32,15,0" transform="translate(168.5 68.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="6" y2="11" transform="translate(187.5 69.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x1="6" y2="11" transform="translate(196.5 69.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x1="53" transform="translate(168.5 102.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x1="34" transform="translate(178.5 107.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x1="17" transform="translate(185.5 112.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+    <line id="Line_8" data-name="Line 8" x1="9" transform="translate(189.5 117.5)" fill="none" stroke="#d8d8d8" stroke-width="1"/>
+  </g>
+</svg>
