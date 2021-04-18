@@ -1,6 +1,5 @@
 import React from 'react'
 import { skills } from './data';
-import eye from '../images/eye.gif'
 
 const Contant = () => {
     return (

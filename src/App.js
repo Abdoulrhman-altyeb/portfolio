@@ -5,11 +5,8 @@ import { Switch, Route } from 'react-router-dom';
 // components
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import Contant from "./components/Contant";
 import DarkMode from "./components/DarkMode";
-import Projects from "./components/Projects";
 import Footer from "./components/Footer";
-import ContactMe from "./components/ContactMe";
 //pages
 import Menu from './pages/Menu'
 import Contact from "./pages/Contact";

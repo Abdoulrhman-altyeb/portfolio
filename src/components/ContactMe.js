@@ -72,7 +72,7 @@ const ContactMe = () => {
                         <input type="text" name='email' className='px-3 py-2 xl:max-w-form w-full border-2 rounded-lg' placeholder='Email'/>
                     </div>
                     <input type="text" name='subject' className='px-3 py-2 w-full border-2 rounded-lg mt-5 mb-5' placeholder='Subject' />
-                    <textarea name="text" name='message' className=' px-3 py-2 block w-full border-2 rounded-lg mb-5' id="" cols="72" rows="3" placeholder='Message..'></textarea>
+                    <textarea name='message' className=' px-3 py-2 block w-full border-2 rounded-lg mb-5' id="" cols="72" rows="3" placeholder='Message..'></textarea>
                     <button type='submit' className=' md:self-start self-center uppercase px-3 py-2 bg-yellow-300 w-40 rounded-lg hover:bg-yellow-200 transition duration-300 ease-in-out mt-5 '>Send Message</button>
                 </form>
             </div>
