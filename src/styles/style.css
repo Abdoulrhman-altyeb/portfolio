@@ -8,6 +8,5 @@
 .project1 {
   background-size: cover;
   background-position: center;
-  background-image: url("../projects_images/desktop-preview.jpg");
   object-fit: cover;
 }

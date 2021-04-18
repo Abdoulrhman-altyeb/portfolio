@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import project1 from '../projects_images/desktop-preview.jpg'
 
 
 const Projects = () => {
@@ -29,7 +30,9 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="md:p-5 flex md:flex-row flex-col p-0 ">
-                    <a target='_blank' href='https://infallible-jennings-e4a7d0.netlify.app' className="rounded md:m-auto m-0 lg:h-80 lg:w-96 md:w-72 md:h-72 sm:h-60 sm:w-72 h-60 w-72 shadow-md project1"></a>
+                    <a target='_blank' rel="noreferrer" href='https://infallible-jennings-e4a7d0.netlify.app' className="rounded md:m-auto m-0 lg:h-80 lg:w-96 md:w-72 md:h-72 sm:h-60 sm:w-72 h-60 w-72 shadow-md ">
+                        <img src={project1} className='project1 h-full' alt=""/>
+                    </a>
                     <div className="p-5 rounded lg:w-72 lg:h-58 h-58 w-72 shadow-md bg-gray-200 text-black dark:text-white dark:bg-gray-600 relative">
                             <h4 className='text-lg font-semibold mb-5'>FrentEnd moniter</h4>
                             <p className='text-sm mb-5 text-gray-600 dark:text-white'>A simple responsive layout page made Worked with basic Programing knowlage</p>
